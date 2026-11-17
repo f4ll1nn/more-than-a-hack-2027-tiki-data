@@ -1,0 +1,18 @@
+# Match inputs and generated outputs belong outside this public repository.
+*
+!/.gitignore
+!/.gitattributes
+!/LICENSE
+!/requirements.txt
+!/predict.py
+!/method/
+!/method/*.py
+!/video/
+!/video/*.py
+!/weights/
+!/weights/state17.pt
+!/weights/state29.pt
+!/weights/owner17.pt
+!/weights/owner29.pt
+!/weights/event17.pt
+!/weights/event29.pt
